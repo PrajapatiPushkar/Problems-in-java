@@ -1,4 +1,4 @@
-package src;
+package src.basics;
 
 public class Problem_1 {
     public static void main(String[] args) {
